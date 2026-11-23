@@ -32,7 +32,8 @@ An end-to-end sales, product, and logistics analysis of the **Northwind Traders*
 ![Operations & Team Performance](Images/03_operations_team.png)
 
 ### 4. Excel Executive Dashboard
-![Excel Dashboard](Images/04_excel_dashboard.png)
+![Excel Dashboard — Overview](Images/04_excel_dashboard_top.png)
+![Excel Dashboard — Product Details](Images/05_excel_dashboard_bottom.png)
 
 ---
 
