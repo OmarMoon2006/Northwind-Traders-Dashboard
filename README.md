@@ -94,7 +94,8 @@ The raw data came as 7 separate CSV tables (`orders`, `order_details`, `products
 │   ├── 01_executive_overview.png
 │   ├── 02_product_category.png
 │   ├── 03_operations_team.png
-│   └── 04_excel_dashboard.png
+│   ├── 04_excel_dashboard_top.png
+│   └── 05_excel_dashboard_bottom.png
 ├── data_analysis_project_dashboard.pbix
 ├── Northwind_Executive_Dashboard_Done.xlsx
 └── README.md
