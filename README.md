@@ -20,7 +20,7 @@ An end-to-end sales, product, and logistics analysis of the **Northwind Traders*
 
 ## Dashboard Previews
 
-> *Screenshots of the Power BI report pages and the Excel executive dashboard (replace the filenames below with your actual images inside the `Images/` folder).*
+> *Screenshots of the Power BI report pages and the Excel executive dashboard.*
 
 ### 1. Executive Overview (Power BI)
 ![Executive Overview](Images/01_executive_overview.png)
@@ -82,7 +82,7 @@ The raw data came as 7 separate CSV tables (`orders`, `order_details`, `products
 ## Repository Structure
 
 ```text
-├── Dataset/
+├── Northwind Traders/
 │   ├── categories.csv
 │   ├── customers.csv
 │   ├── employees.csv
@@ -99,3 +99,4 @@ The raw data came as 7 separate CSV tables (`orders`, `order_details`, `products
 ├── data_analysis_project_dashboard.pbix
 ├── Northwind_Executive_Dashboard_Done.xlsx
 └── README.md
+```
